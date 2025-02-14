@@ -1,6 +1,6 @@
-# MED-DOC-CARE
-<b>
-ALL THE DETAILS WILL BE HERE</b>
+<b># MED-DOC-CARE
+</b>
+<b>ALL THE DETAILS WILL BE HERE</b>
   <b>Centralized Medical Records: Patients’ complete medical history is stored in a unified system.</b>
   <b> Seamless Doctor Access: Authorized doctors across hospitals can securely retrieve patient records.
    <b> Robust Security & Compliance: Ensures data privacy, encryption, and adherence to healthcare regulations.</b>
